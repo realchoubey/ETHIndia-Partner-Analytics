@@ -27,7 +27,7 @@ Benefits
 
 ## Partner 2: Valist
 
-👉 Valist Data Explorer and Visualizer [Mainnet](https://analytics.dapplooker.com/dashboard/288-valist-dashboard-for-ethindia) | [Testnet](https://analytics.dapplooker.com/dashboard/289-valist-testnet-dashboard-for-ethindia) 👈
+👉 Valist Data Explorer and Visualizer [Mainnet](http://analytics.dapplooker.com/public/dashboard/5acf4564-76b2-4e39-adbc-e1edbf9a8f1a) | [Testnet](http://analytics.dapplooker.com/public/dashboard/e573e999-0d4a-4458-b5f4-0288066610fe) 👈
 
 Easily ship web, desktop, and mobile software to any platform — all without managing complex tooling, infra, or using traditional DRM systems that take 30%+ of revenue.
 
@@ -36,11 +36,11 @@ The importance of analytics is simply to understand the adoption level of the ne
 We present,
 
 Valist Ecosystem Health **Mainnet** Dashboard:
-https://analytics.dapplooker.com/dashboard/288-valist-dashboard-for-ethindia
+http://analytics.dapplooker.com/public/dashboard/5acf4564-76b2-4e39-adbc-e1edbf9a8f1a
 
 
 Valist Ecosystem Health **Testnet** Dashboard:
-https://analytics.dapplooker.com/dashboard/289-valist-testnet-dashboard-for-ethindia
+http://analytics.dapplooker.com/public/dashboard/e573e999-0d4a-4458-b5f4-0288066610fe
 
 Important metrics we cover here:
 
